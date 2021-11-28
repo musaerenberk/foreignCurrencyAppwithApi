@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.InstallLog
+   assemblypath = C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe
+Installing service Döviz Uygulaması Servisi...
+Service Döviz Uygulaması Servisi has been successfully installed.
+Creating EventLog source Döviz Uygulaması Servisi in log Application...
+Committing assembly 'C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.InstallLog
+   assemblypath = C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe

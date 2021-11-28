@@ -1,0 +1,15 @@
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.WinApp.exe.config
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.WinApp.exe
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.WinApp.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.Core.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.Entities.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.Core.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Udemy.Doviz.Entities.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.csprojResolveAssemblyReference.cache
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.Form1.resources
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.Properties.Resources.resources
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.csproj.GenerateResource.Cache
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.exe
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\obj\Debug\Udemy.Doviz.WinApp.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Newtonsoft.Json.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.WinApp\bin\Debug\Newtonsoft.Json.xml

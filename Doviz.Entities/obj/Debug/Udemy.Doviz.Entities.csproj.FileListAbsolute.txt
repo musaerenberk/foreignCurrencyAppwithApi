@@ -1,0 +1,11 @@
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.Entities\bin\Debug\Udemy.Doviz.Entities.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.Entities\bin\Debug\Udemy.Doviz.Entities.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.csprojResolveAssemblyReference.cache
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\bin\Debug\Udemy.Doviz.Entities.dll
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\bin\Debug\Udemy.Doviz.Entities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.csprojAssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.dll
+C:\Users\meren\OneDrive\Masaüstü\Doviz\Udemy.Doviz.Entities\obj\Debug\Udemy.Doviz.Entities.pdb

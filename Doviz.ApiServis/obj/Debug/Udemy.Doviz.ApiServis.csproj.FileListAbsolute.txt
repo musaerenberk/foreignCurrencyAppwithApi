@@ -1,0 +1,14 @@
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe.config
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.exe
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.ApiServis.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.Core.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.Entities.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Newtonsoft.Json.dll
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.Core.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Udemy.Doviz.Entities.pdb
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\bin\Debug\Newtonsoft.Json.xml
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\obj\Debug\Udemy.Doviz.ApiServis.csprojResolveAssemblyReference.cache
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\obj\Debug\Udemy.Doviz.ApiServis.ProjectInstaller.resources
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\obj\Debug\Udemy.Doviz.ApiServis.csproj.GenerateResource.Cache
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\obj\Debug\Udemy.Doviz.ApiServis.exe
+C:\Udemy\Udemy.Doviz\Udemy.Doviz.ApiServis\obj\Debug\Udemy.Doviz.ApiServis.pdb

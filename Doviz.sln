@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Doviz.Core", "Udemy.Doviz.Core\Udemy.Doviz.Core.csproj", "{F0EC566E-EF87-4A0B-99E9-37145BFDD3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Doviz.Entities", "Udemy.Doviz.Entities\Udemy.Doviz.Entities.csproj", "{B91763A9-5EEB-4027-A14A-98557A9FEDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Doviz.WinApp", "Udemy.Doviz.WinApp\Udemy.Doviz.WinApp.csproj", "{C453CAEB-4DB8-48E6-9EE9-2DA5C3C013E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.Doviz.ApiServis", "Udemy.Doviz.ApiServis\Udemy.Doviz.ApiServis.csproj", "{F6DF9F7D-35A9-45B9-8995-109D29116B45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSQL", "TSQL", "{2667B2D0-E281-4B79-8E54-38D608A2DA30}"
+	ProjectSection(SolutionItems) = preProject
+		TSQLKodlari.sql = TSQLKodlari.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EC566E-EF87-4A0B-99E9-37145BFDD3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EC566E-EF87-4A0B-99E9-37145BFDD3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EC566E-EF87-4A0B-99E9-37145BFDD3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EC566E-EF87-4A0B-99E9-37145BFDD3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91763A9-5EEB-4027-A14A-98557A9FEDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91763A9-5EEB-4027-A14A-98557A9FEDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91763A9-5EEB-4027-A14A-98557A9FEDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91763A9-5EEB-4027-A14A-98557A9FEDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C453CAEB-4DB8-48E6-9EE9-2DA5C3C013E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C453CAEB-4DB8-48E6-9EE9-2DA5C3C013E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C453CAEB-4DB8-48E6-9EE9-2DA5C3C013E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C453CAEB-4DB8-48E6-9EE9-2DA5C3C013E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DF9F7D-35A9-45B9-8995-109D29116B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DF9F7D-35A9-45B9-8995-109D29116B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DF9F7D-35A9-45B9-8995-109D29116B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DF9F7D-35A9-45B9-8995-109D29116B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
